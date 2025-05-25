@@ -1,6 +1,6 @@
 - Hi, I’m @nanachiy.
 - I’m interested in physics and astronomy.
-- I’m currently learning python and FPGA.
+- I’m currently learning python and quantum field theory.
 - How to reach me: 393744534@qq.com.
 
 <!---
