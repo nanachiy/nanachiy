@@ -1,7 +1,7 @@
 - Hi, I’m @nanachiy.
 - I’m interested in physics and astronomy.
 - I’m currently learning python and quantum field theory.
-- How to reach me: 393744534@qq.com.
+- How to reach me: zhongxuchen@mail.ustc.edu.cn.
 
 <!---
 nanachiy/nanachiy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
